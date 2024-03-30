@@ -167,7 +167,8 @@ int main() {
 ![image](https://github.com/AasrithSairam/Linux-Process-API-fork-wait-exec/assets/139331438/5f1fec90-e91c-495c-98f9-426abc8f3eb5)
 
 
-
+Registered Number:- 212223110046
+Nmae:- Shaik Azeez Ahamad
 
 
 
